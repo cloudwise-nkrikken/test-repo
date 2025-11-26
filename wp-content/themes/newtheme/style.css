@@ -1,0 +1,15 @@
+
+/*
+Theme Name:   testthema
+Theme URI:    https://jouwwebsite.nl
+Description:  Child theme van Kadence
+Author:       Jouw Naam
+Author URI:   https://jouwwebsite.nl
+Template:     kadence
+Version:      1.0.0
+
+*/
+
+.entry-header{
+    background-color:blue
+}
